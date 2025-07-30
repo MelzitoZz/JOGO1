@@ -219,4 +219,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c8108d16e1b80b41b186db6a47414db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TempodaPlataforma: 1.25
+  TempodaPlataforma: 0.5
